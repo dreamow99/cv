@@ -1,7 +1,7 @@
 # cv
-Source for building cv with (rendercv)[https://github.com/rendercv/rendercv]
+Source for building cv with [rendercv](https://github.com/rendercv/rendercv)
 
-(rendercv docs)[https://docs.rendercv.com/user_guide/#__tabbed_1_1]
+[rendercv docs](https://docs.rendercv.com/user_guide/#__tabbed_1_1)
 
 # Steps
 
