@@ -8,13 +8,22 @@ cv:
   phone: "+84355798418"
   website: https://dreamow99.github.io/portfolio/
   social_networks:
-    - network: LinkedIn
-      username: duyphm
     - network: GitHub
       username: dreamow99
   custom_connections:
   sections:
     experience:
+      - company: Bald Eagle Studio
+        position: Game Developer
+        date:
+        start_date: 2025-06
+        end_date: 2025-09
+        location:
+        summary:
+        highlights:
+          - Events and DevOps engineer for 3D idle game project
+          - Responsible for maintenance and bug resolution
+
       - company: Zitga Studio
         position: Game Developer
         date:
@@ -76,13 +85,79 @@ cv:
         highlights:
           - Represented my province in the National High School Olympiad in Informatics
 
+    featured_projects:
+      - name: Merge Spider train
+        summary: https://apkcombo.com/vi/merge-spider-train/merge.choo.choo.horror.train/
+        highlights:
+          - Involved in the end-to-end development process from initial concept to launch
+          - Developed core gameplay mechanics and implemented UI/UX systems
+          - Integrated and managed third-party SDKs
+          - Contributed to key decision-making for polishing and game feel optimization
+          - Developed retention-focused features such as reward systems and engaging mini-games
+          - Bug fixes and maintenance, analyzed crash analytics data for maintenance purposes
+    
+      - name: Woody Maze - Block sort 3D
+        summary: https://apps.apple.com/us/app/woody-maze-block-sort-3d/id6744952014
+        highlights:
+          - Involved in the end-to-end development process from initial concept to launch
+          - Developed core gameplay mechanics and implemented UI/UX systems
+          - Elevated game design process by developing Unity Editor tool for easy level configuration
+    
+      - name: Alphabet Merge - Maze Puzzle
+        summary: https://apkcombo.com/vi/alphabet-merge-maze-puzzle/alphabet.merge.maze.puzzle/
+        highlights:
+          - Involved in the end-to-end development process from initial concept to launch
+          - Developed core gameplay mechanics and implemented UI/UX systems
+          - Integrated and managed third-party SDKs
+          - Bug fixes and maintenance, analyzed crash analytics data for maintenance purposes
+    
+      - name: Monster Maker - Mix & Fight
+        summary: https://apkcombo.com/vi/monster-maker-mix-fight/com.monstermaker.mix.makeover/
+        highlights:
+          - Implemented combat game modes
+          - Developed engaging mini-games, assisted with polishing
+          - Bug fixes and maintenance, analyzed crash analytics data for maintenance purposes
+    
+      - name: Nuts & Bolts Sort
+        summary: https://apps.apple.com/us/app/nuts-bolts-sort/id6473832108/
+        highlights:
+          - Assisted with polishing
+    
+      - name: Stickman Clash - Combo Master
+        summary: https://play.google.com/store/apps/details?id=com.threehp014.clash.combo.stickman.hero.puzzle.block/
+        highlights:
+          - Developed the main game loop based on the existing core combat platform
+          - Integrated diagnostic data and analytics
+    
+      - name: Guardian War - RPG Pixel Hero
+        summary: https://apkcombo.com/vi/guardian-war-rpg-pixel-hero/com.fansipan.pixel.hero.action.rpg.adventure.games/
+        highlights:
+          - Involved in post-launch operations, regular content updates
+          - Bug fixes and maintenance
+    
+      - name: Pixel Squad - Idle RPG Legends
+        summary: https://apkcombo.com/vi/pixel-squad-idle-rpg-legends/com.pixel.squad.strategy.rpg.game/
+        highlights:
+          - Involved in post-launch operations, regular content updates
+          - Bug fixes and maintenance
+    
+      - name: Stickman Dungeon - Idle RPG War
+        summary: https://apkcombo.com/vi/pixel-squad-idle-rpg-legends/com.pixel.squad.strategy.rpg.game/
+        highlights:
+          - Involved in UI polishing, new features and content updates
+          - Bug fixes and maintenance
+
     selected_honors:
       - Consolation Prize in Vietnam Olympiad in Informatics (2015)
 
     certificates:
+      - name: Story and Narrative Development for Video Games
+        summary: An online non-credit course authorized by California Institute of the Arts offered through Coursera
+        date: 2025
       - name: Introduction to Game Design
         summary: An online non-credit course authorized by California Institute of the Arts offered through Coursera
         date: 2025
+
       - name: TOEIC 895
         summary: Issued by IIG Vietnam
         date:
